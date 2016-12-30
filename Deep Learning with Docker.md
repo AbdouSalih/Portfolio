@@ -5,7 +5,7 @@ set up your own DL environement based on docker containers
 
 ## Index 
 - 1. Introduction 
-	* whuy Docker 
+	* why Docker 
 - 2. Install Docker 
 - 2.bis. The fast track 
 - 3. Install Jupyterhub, your development API 
